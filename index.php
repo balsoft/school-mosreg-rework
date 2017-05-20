@@ -33,7 +33,7 @@
                 </nav>
             </div>
             <main class="mdl-layout__content">
-
+                <?php print "Hello world" ?>
             </main>
         </div>
     </body>
