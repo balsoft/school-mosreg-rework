@@ -5,6 +5,9 @@
         <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
     </head>
     <body>
-        <?php print "Php is working"; ?>
+        <?php
+            print "PHP работает";
+            print "<button class='mdl-button' onclick='alert(\'Молодец\')'>нажми меня</button>";
+        ?>
     </body>
 </html>
