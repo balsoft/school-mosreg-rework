@@ -8,6 +8,6 @@
         <?php
             print "PHP работает";
         ?>
-        <button class='mdl-button' onclick='alert(\'Молодец\')'>нажми меня</button>
+        <button class='mdl-button mdl-button--raised' onclick='alert("Молодец")'>нажми меня</button>
     </body>
 </html>
