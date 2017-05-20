@@ -7,7 +7,7 @@
     <body>
         <?php
             print "PHP работает";
-            print "<button class='mdl-button' onclick='alert(\'Молодец\')'>нажми меня</button>";
         ?>
+        <button class='mdl-button' onclick='alert(\'Молодец\')'>нажми меня</button>
     </body>
 </html>
