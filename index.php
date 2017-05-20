@@ -7,8 +7,8 @@
         <title>Школьный портал для людей</title>
     </head>
     <body>
-        <div class="demo-layout-transparent mdl-layout mdl-js-layout">
-            <header class="mdl-layout__header mdl-layout__header--transparent">
+        <div class="mdl-layout mdl-js-layout">
+            <header class="mdl-layout__header">
                 <div class="mdl-layout__header-row">
                 <!-- Title -->
                 <span class="mdl-layout-title">Школьный портал</span>
